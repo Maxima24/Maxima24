@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maxima
+# 👋 Hi, I'm Maxim
 
 🎯 Passionate about building **scalable web apps**, crafting **intuitive user experiences**, and solving **real-world problems** with code.
 
@@ -6,8 +6,8 @@
 
 ## 💼 Current Projects
 
-- 🚀 **Eventhive** – A modern event management & ticketing platform  
-- 💸 **Xs** – A sleek fintech solution for expense tracking and payments  
+- 🚀 **Tutorial Hub** – A Modern Learning Platform & Messaging platform  
+- 💸 **A Distirbuted Notification System** – A MicroService Application aimed at handle all form of Notifications 
 - 🛠️ Building **React dashboards**, **Node.js APIs**, and **Firebase-authenticated** apps
 
 ---
